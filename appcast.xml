@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>CCDash</title>
+    <link>https://raw.githubusercontent.com/OwaisQuadri/ccdash-releases/main/appcast.xml</link>
+    <description>Auto-update feed for CCDash.</description>
+    <language>en</language>
+    <!-- BEGIN ITEMS (newest first; CCDash/scripts/publish-appcast.sh inserts here) -->
+  </channel>
+</rss>
