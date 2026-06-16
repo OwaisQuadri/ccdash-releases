@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- BEGIN ITEMS (newest first; CCDash/scripts/publish-appcast.sh inserts here) -->
     <item>
+      <title>Version 1.2</title>
+      <description><![CDATA[Conductor-style auto-update: new versions download silently in the background and install on the next restart. A 'Restart to update' item appears in the ⋯ menu when one is ready.]]></description>
+      <pubDate>Tue, 16 Jun 2026 05:30:13 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/OwaisQuadri/ccdash-releases/releases/download/v1.2/CCDash-1.2.dmg" type="application/octet-stream" sparkle:edSignature="vTlqG6i7ixgcdzghgDbUQuXTH9xT1u1wrXBNOnjF/YAqIrTf9npPiRK9D/QStqSlYOlVh44vlgblZEVsw1CWCw==" length="2542608" />
+    </item>
+    <item>
       <title>Version 1.1</title>
       <description><![CDATA[CCDash now keeps itself up to date automatically (Sparkle). Future releases install in-app — no more manual DMG drag.]]></description>
       <pubDate>Tue, 16 Jun 2026 04:19:51 +0000</pubDate>
