@@ -6,5 +6,14 @@
     <description>Auto-update feed for CCDash.</description>
     <language>en</language>
     <!-- BEGIN ITEMS (newest first; CCDash/scripts/publish-appcast.sh inserts here) -->
+    <item>
+      <title>Version 1.1</title>
+      <description><![CDATA[CCDash now keeps itself up to date automatically (Sparkle). Future releases install in-app — no more manual DMG drag.]]></description>
+      <pubDate>Tue, 16 Jun 2026 04:19:51 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/OwaisQuadri/ccdash-releases/releases/download/v1.1/CCDash-1.1.dmg" type="application/octet-stream" sparkle:edSignature="nrB7yeNYvcU4FwXbVxd/Wg27FM9ku3REGNRZnoKi+x1ogzkMcAaHhpdVnFz3GUn0Bf2zVsG/GiIGbwrq6IzhCg==" length="2537129" />
+    </item>
   </channel>
 </rss>
