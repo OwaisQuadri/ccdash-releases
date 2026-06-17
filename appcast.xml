@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- BEGIN ITEMS (newest first; CCDash/scripts/publish-appcast.sh inserts here) -->
     <item>
+      <title>Version 1.4.2</title>
+      <description><![CDATA[Rebrand to Tempo: new app name, icon, and menu-bar identity. (Bundle/CLI internals unchanged.)]]></description>
+      <pubDate>Wed, 17 Jun 2026 06:08:37 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/OwaisQuadri/ccdash-releases/releases/download/v1.4.2/CCDash-1.4.2.dmg" type="application/octet-stream" sparkle:edSignature="UtrXChQ0OEQ26YCguHWe3Rokd7Z/c0eBUEli+oUq+NmBEFwcQ/JNc7l+eexZeTeMhQoXRwNweSB4GNPrEdTSBw==" length="2903731" />
+    </item>
+    <item>
       <title>Version 1.4.1</title>
       <description><![CDATA[CCDash 1.4.1]]></description>
       <pubDate>Wed, 17 Jun 2026 00:59:30 +0000</pubDate>
