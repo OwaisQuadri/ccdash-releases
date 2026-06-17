@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- BEGIN ITEMS (newest first; CCDash/scripts/publish-appcast.sh inserts here) -->
     <item>
+      <title>Version 1.4.1</title>
+      <description><![CDATA[CCDash 1.4.1]]></description>
+      <pubDate>Wed, 17 Jun 2026 00:59:30 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/OwaisQuadri/ccdash-releases/releases/download/v1.4.1/CCDash-1.4.1.dmg" type="application/octet-stream" sparkle:edSignature="68WMob9ypTege+9tuaHYcsizgK4qZJHLsyHmWBs3tnlVlwo/3hynvbVqiSLN2AXzm7gTydwxWI8uGRpebBZcCA==" length="2550189" />
+    </item>
+    <item>
       <title>Version 1.4</title>
       <description><![CDATA[Recover unclean runs: a hung or aborted run (one that never reported a clean finish) now offers a Continue button, and an errored run a Retry — both start a fresh run. A new inline Diagnose line tells you why a run didn't finish, and CCDash now notifies you the moment a run hangs or errors.]]></description>
       <pubDate>Tue, 16 Jun 2026 23:20:31 +0000</pubDate>
