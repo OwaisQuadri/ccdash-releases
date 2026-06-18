@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- BEGIN ITEMS (newest first; CCDash/scripts/publish-appcast.sh inserts here) -->
     <item>
+      <title>Version 1.5.1</title>
+      <description><![CDATA[Real Liquid Glass app icon: the metronome now renders with the macOS 26 Liquid Glass material, from a single-source Icon Composer file (no more generic placeholder).]]></description>
+      <pubDate>Thu, 18 Jun 2026 01:41:50 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/OwaisQuadri/ccdash-releases/releases/download/v1.5.1/Tempo-1.5.1.dmg" type="application/octet-stream" sparkle:edSignature="DfIwfdYjQiSn3S423dO0ifajtqibtPcP682hbRvbuK+MhBv0kyLJFQHhONqUasRcJEmJ4wUIEc8oP7G4PRl0Ag==" length="4548598" />
+    </item>
+    <item>
       <title>Version 1.5.0</title>
       <description><![CDATA[Full rebrand to Tempo (app, Dock, executable, `tempo` CLI) + the real Tempo app icon. Internals (bundle id, update feed) unchanged.]]></description>
       <pubDate>Thu, 18 Jun 2026 00:42:33 +0000</pubDate>
