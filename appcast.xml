@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- BEGIN ITEMS (newest first; CCDash/scripts/publish-appcast.sh inserts here) -->
     <item>
+      <title>Version 1.5.0</title>
+      <description><![CDATA[Full rebrand to Tempo: app, Dock name, executable, and the `tempo` CLI. Internals (bundle id, update feed) unchanged.]]></description>
+      <pubDate>Thu, 18 Jun 2026 00:25:33 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/OwaisQuadri/ccdash-releases/releases/download/v1.5.0/Tempo-1.5.0.dmg" type="application/octet-stream" sparkle:edSignature="GBt6T4fRblAkfkhWXeK0PKxYA3ptl4UvAhWdu7nPblEAaQKjoX+W/t/7et9lCPFJoAWzIc6lZqQCpCCdtFNoCQ==" length="2568329" />
+    </item>
+    <item>
       <title>Version 1.4.5</title>
       <description><![CDATA[Usage-source module: weekly + rolling-5h cost/token totals across CCDash runs and interactive Claude Code sessions, de-duplicated so headless runs aren't double-counted (OQ-359).]]></description>
       <pubDate>Wed, 17 Jun 2026 22:31:18 +0000</pubDate>
