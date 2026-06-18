@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- BEGIN ITEMS (newest first; CCDash/scripts/publish-appcast.sh inserts here) -->
     <item>
+      <title>Version 1.5.2</title>
+      <description><![CDATA[Usage view: weekly + 5h-session spend, per-job breakdown, and a 7-day trend sparkline.]]></description>
+      <pubDate>Thu, 18 Jun 2026 19:43:14 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/OwaisQuadri/ccdash-releases/releases/download/v1.5.2/Tempo-1.5.2.dmg" type="application/octet-stream" sparkle:edSignature="ayIYNA/nRb6GHcRC0WiJD3Y20i6/WWx4VM9PYoH/agATrag382lUkxqg0DHzueCCSSLaCZIb3oJYFR+0tszXCw==" length="4674800" />
+    </item>
+    <item>
       <title>Version 1.5.1</title>
       <description><![CDATA[Real Liquid Glass app icon: the metronome now renders with the macOS 26 Liquid Glass material, from a single-source Icon Composer file (no more generic placeholder).]]></description>
       <pubDate>Thu, 18 Jun 2026 01:41:50 +0000</pubDate>
