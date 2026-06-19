@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- BEGIN ITEMS (newest first; CCDash/scripts/publish-appcast.sh inserts here) -->
     <item>
+      <title>Version 1.5.6</title>
+      <description><![CDATA[Tempo 1.5.6]]></description>
+      <pubDate>Fri, 19 Jun 2026 23:13:26 +0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>1.5.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/OwaisQuadri/ccdash-releases/releases/download/v1.5.6/Tempo-1.5.6.dmg" type="application/octet-stream" sparkle:edSignature="D/szOV9qegVW0KH0WockTEq/ftInf+tAfOivYoYeL1xZpU3BKtS1aSvsWKoTCItX/LvMmIyXryV99DowmVAmAg==" length="5110988" />
+    </item>
+    <item>
       <title>Version 1.5.5</title>
       <description><![CDATA[Tempo 1.5.5]]></description>
       <pubDate>Fri, 19 Jun 2026 03:23:23 +0000</pubDate>
