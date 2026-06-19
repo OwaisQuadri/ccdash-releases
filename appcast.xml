@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- BEGIN ITEMS (newest first; CCDash/scripts/publish-appcast.sh inserts here) -->
     <item>
+      <title>Version 1.5.3</title>
+      <description><![CDATA[Tempo 1.5.3]]></description>
+      <pubDate>Fri, 19 Jun 2026 01:39:42 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/OwaisQuadri/ccdash-releases/releases/download/v1.5.3/Tempo-1.5.3.dmg" type="application/octet-stream" sparkle:edSignature="u5mGltHPC63wyxle3crzOOQRpk8KwMGhD3EJp1WWmbL4XSz3K5OHMO1zcEcklsmzqz3bRJQa3ngiA5T9kkutCQ==" length="5103151" />
+    </item>
+    <item>
       <title>Version 1.5.2</title>
       <description><![CDATA[Auto-scheduling: group your automations, give the group a slice of your weekly budget, and let Tempo derive each job's schedule from its cost history — preview and apply in the new Rebalance window. Also includes the Usage view: weekly + 5h-session spend, per-job breakdown, and a 7-day trend sparkline.]]></description>
       <pubDate>Thu, 18 Jun 2026 19:43:14 +0000</pubDate>
