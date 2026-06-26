@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- BEGIN ITEMS (newest first; CCDash/scripts/publish-appcast.sh inserts here) -->
     <item>
+      <title>Version 1.5.7</title>
+      <description><![CDATA[Adds 'tempo backfill-meta': recovers runs stranded 'abandoned' when their meta.json never landed, by reconstructing a terminal meta from the transcript jsonl (create-only, never clobbers).]]></description>
+      <pubDate>Fri, 26 Jun 2026 04:53:03 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.5.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/OwaisQuadri/ccdash-releases/releases/download/v1.5.7/Tempo-1.5.7.dmg" type="application/octet-stream" sparkle:edSignature="dZQYkO7umeVW30H0BXvwdRpCwxxyO+03RBF++iwUrty/dQrTetEtbeBF2enbbWYPi4mSLiNYCLy/kBmNxoEgBA==" length="5386520" />
+    </item>
+    <item>
       <title>Version 1.5.6</title>
       <description><![CDATA[Tempo 1.5.6]]></description>
       <pubDate>Fri, 19 Jun 2026 23:13:26 +0000</pubDate>
